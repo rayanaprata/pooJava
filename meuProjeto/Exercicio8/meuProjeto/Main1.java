@@ -8,7 +8,7 @@ public class Main1{
       int notas[][] = { { 8, 9, 7 }, { 6, 8, 9 },{ 9, 10, 9 },
     		   { 10, 8, 8 }, { 8, 6, 8 }};
       
-      Turma ads3 = new Turma("ADS3-POO", notas);
+      Turma ads3 = new Turma("ADS3-POO", notas)
       
       ads3.imprimirNotas();
       
