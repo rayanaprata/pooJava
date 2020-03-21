@@ -5,7 +5,7 @@ public class Main2 {
 
 	public static void main(String args[]) {  
 
-		int matriz[][];
+		int matriz[][]
 
 		System.out.println("Matrix 3x3:");
 		matriz = Matriz.criar(3,3,-1);
